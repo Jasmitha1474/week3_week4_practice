@@ -33,15 +33,14 @@ Each problem focuses on selecting the **right algorithm based on data size, perf
 
 ---
 
-### 🔹 Problem 2: (Contextual / System Design Based)
+### 🔹 Problem 2: Client Risk Score Ranking
 
 * Focuses on efficient handling of large-scale operations.
 * Emphasizes **performance and real-time constraints**.
 
 ---
 
-### 🔹 Problem 3: (Contextual / Data Handling)
-
+### 🔹 Problem 3: Historical Trade Volume Analysis
 * Covers structured data operations and optimization.
 * Builds foundation for advanced algorithm selection.
 
